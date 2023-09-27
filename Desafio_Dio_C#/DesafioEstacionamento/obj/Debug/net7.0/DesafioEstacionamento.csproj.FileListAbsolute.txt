@@ -1,0 +1,14 @@
+C:\Users\Arilson\Desktop\Desafio_Dio_C#\DesafioEstacionamento\bin\Debug\net7.0\DesafioEstacionamento.exe
+C:\Users\Arilson\Desktop\Desafio_Dio_C#\DesafioEstacionamento\bin\Debug\net7.0\DesafioEstacionamento.deps.json
+C:\Users\Arilson\Desktop\Desafio_Dio_C#\DesafioEstacionamento\bin\Debug\net7.0\DesafioEstacionamento.runtimeconfig.json
+C:\Users\Arilson\Desktop\Desafio_Dio_C#\DesafioEstacionamento\bin\Debug\net7.0\DesafioEstacionamento.dll
+C:\Users\Arilson\Desktop\Desafio_Dio_C#\DesafioEstacionamento\bin\Debug\net7.0\DesafioEstacionamento.pdb
+C:\Users\Arilson\Desktop\Desafio_Dio_C#\DesafioEstacionamento\obj\Debug\net7.0\DesafioEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arilson\Desktop\Desafio_Dio_C#\DesafioEstacionamento\obj\Debug\net7.0\DesafioEstacionamento.AssemblyInfoInputs.cache
+C:\Users\Arilson\Desktop\Desafio_Dio_C#\DesafioEstacionamento\obj\Debug\net7.0\DesafioEstacionamento.AssemblyInfo.cs
+C:\Users\Arilson\Desktop\Desafio_Dio_C#\DesafioEstacionamento\obj\Debug\net7.0\DesafioEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Arilson\Desktop\Desafio_Dio_C#\DesafioEstacionamento\obj\Debug\net7.0\DesafioEstacionamento.dll
+C:\Users\Arilson\Desktop\Desafio_Dio_C#\DesafioEstacionamento\obj\Debug\net7.0\refint\DesafioEstacionamento.dll
+C:\Users\Arilson\Desktop\Desafio_Dio_C#\DesafioEstacionamento\obj\Debug\net7.0\DesafioEstacionamento.pdb
+C:\Users\Arilson\Desktop\Desafio_Dio_C#\DesafioEstacionamento\obj\Debug\net7.0\DesafioEstacionamento.genruntimeconfig.cache
+C:\Users\Arilson\Desktop\Desafio_Dio_C#\DesafioEstacionamento\obj\Debug\net7.0\ref\DesafioEstacionamento.dll
